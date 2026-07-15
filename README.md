@@ -1,5 +1,5 @@
 # multi-servo-sweep-hold
-
+TTinkercad Circuits simulation demonstrating a sweep sequence and holding still at 90 degrees using four servo motors controlled via Arduino arrays .
 # Equipment 
 - 4 servo motor (not DC)
 - Arduino board
